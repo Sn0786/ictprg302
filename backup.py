@@ -5,13 +5,10 @@ if the program run successfully or it failed, it will send two message one throu
 
 author: Soha Najmi
 
-email: sohanajmi10@gmail.com 
+email: 30024957@students.sunitafe.edu.au 
 
 version: 1.0
-
 """
-
-
 
 import sys
 from backupcfg import jobs, dstPath, logPath, smtp  # backupcfg is a python file and we import jobs, dstPath etc from it. basically it mean we linked these two python files.
